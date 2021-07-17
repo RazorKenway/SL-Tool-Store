@@ -17,7 +17,7 @@
 <br>
 
 
-* The biggest Collection of SL-Android's Termux Tools
+* The biggest Collection of SL-Android's Termux Tools.You can run all tools without cloning one by one.
 
 
 
