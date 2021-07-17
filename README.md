@@ -1,7 +1,7 @@
 # SL-Tool-Store
 
 
-<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-SL-Tool Store-brightgreen?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-SL-Tool-Store-brightgreen?style=for-the-badge&logo=appveyor"></a>
 
 <img src="ToolStore.png"/>
 
