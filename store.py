@@ -1,4 +1,4 @@
-#ENCODE BY 
+#ENCODE BY RAZOR KENWAY
 #YOU CAN TRY THIS DECODE GOD BLESS
 import gzip,marshal,zlib,base64,binascii,lzma
 
